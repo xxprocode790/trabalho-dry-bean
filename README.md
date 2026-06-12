@@ -1,6 +1,6 @@
 # Classificação Supervisionada — Dry Bean Dataset (UCI)
 
-Trabalho da disciplina **Aprendizado de Máquina** — comparativo entre Árvore de Decisão, Random Forest e KNN.
+Trabalho da disciplina **INTELIGÊNCIA ARTIFICIAL E COMPUTACIONAL** — comparativo entre Árvore de Decisão, Random Forest e KNN.
 
 **Dataset:** [Dry Bean Dataset — UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/602/dry+bean+dataset)
 (13.611 instâncias, 16 atributos numéricos, 7 classes; target: `Class`)

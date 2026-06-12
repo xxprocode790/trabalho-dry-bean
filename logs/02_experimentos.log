@@ -1,0 +1,10 @@
+[P1 - sem normalizacao] Arvore de Decisao: acc=0.8958+-0.0095 prec=0.9110 rec=0.9103 f1=0.9104 tempo_treino=0.1960s
+[P2 - com padronizacao] Arvore de Decisao: acc=0.8958+-0.0095 prec=0.9110 rec=0.9103 f1=0.9104 tempo_treino=0.2016s
+[P1 - sem normalizacao] KNN (k=5): acc=0.7343+-0.0063 prec=0.7435 rec=0.7304 f1=0.7344 tempo_treino=0.0051s
+[P2 - com padronizacao] KNN (k=5): acc=0.9233+-0.0062 prec=0.9374 rec=0.9342 f1=0.9356 tempo_treino=0.0051s
+[P1 - sem normalizacao] Random Forest: acc=0.9259+-0.0070 prec=0.9386 rec=0.9349 f1=0.9365 tempo_treino=3.2915s
+[P2 - com padronizacao] Random Forest: acc=0.9260+-0.0072 prec=0.9387 rec=0.9351 f1=0.9367 tempo_treino=3.3216s
+Holdout 75/25 estratificado (P2 - com padronizacao):
+  Arvore de Decisao: acc_teste=0.8927 tempo_treino=0.1655s
+  Random Forest: acc_teste=0.9186 tempo_treino=2.6132s
+  KNN (k=5): acc_teste=0.9165 tempo_treino=0.0046s
